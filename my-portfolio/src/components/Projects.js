@@ -15,7 +15,7 @@ const Projects = () => {
       title: 'موقع شركة تبريد',
       description: 'موقع احترافي لشركة تبريد وتكييف يعرض الخدمات والمنتجات مع نظام تواصل وطلب خدمات',
       emoji: '❄️',
-      tech: ['HTML', 'CSS', 'JavaScript', 'PHP', 'MySQL'],
+      tech: ['Bootstrap', 'CSS', 'React', 'Laravel', 'MySQL'],
       github: 'https://github.com/ali-mhnna',
       live: 'https://react-project-cooling-service-request.netlify.app/',
     },
